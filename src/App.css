@@ -1,0 +1,25 @@
+body {
+    background-color: #ecf0f1;
+}
+
+.App {
+    text-align: center;
+}
+
+.App .container {
+    margin-top: 58px;
+}
+
+.form_wrapper {}
+
+.det {
+    background-color: #2c3e50;
+}
+
+.weather {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}

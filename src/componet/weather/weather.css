@@ -1,0 +1,7 @@
+.weather_wrapper {}
+
+.weather_wrapper p {
+    border-bottom: 2px solid #ecf0f1;
+    color: #ecf0f1;
+    padding-bottom: 5px;
+}
